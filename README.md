@@ -112,23 +112,23 @@ const seline: SoftwareEngineer = {
 <div align="center">
 
 <!-- GitHub Stats Cards - Dynamic & auto-updating -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SelineFelizPerez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelineFelizPerez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selinefeliz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinefeliz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 
 <br/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SelineFelizPerez&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=EC4899" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selinefeliz&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=EC4899" alt="GitHub Streak"/>
 
 <br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelineFelizPerez&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=selinefeliz&bg_color=0D1117&color=A855F7&line=EC4899&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SelineFelizPerez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=selinefeliz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" alt="Trophies"/>
 
 </div>
 
