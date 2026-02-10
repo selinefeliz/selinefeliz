@@ -112,8 +112,8 @@ const seline: SoftwareEngineer = {
 <div align="center">
 
 <!-- GitHub Stats Cards - Dynamic & auto-updating -->
-<img height="180em" src="https://github-readme-stats-4l6ybrjxv-seline-feliz-perezs-projects.vercel.app/api?username=selinefeliz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-4l6ybrjxv-seline-feliz-perezs-projects.vercel.app/api/top-langs/?username=selinefeliz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-vert-theta-50.vercel.app/api?username=selinefeliz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-vert-theta-50.vercel.app/api/top-langs/?username=selinefeliz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 
 <br/>
 
