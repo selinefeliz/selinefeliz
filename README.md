@@ -128,7 +128,7 @@ const seline: SoftwareEngineer = {
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=selinefeliz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=selinefeliz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5&no-bg=true" alt="Trophies"/>
 
 </div>
 
